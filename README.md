@@ -32,7 +32,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 - **Generative AI**: text-to-image and image-to-3D generation, diffusion models, LoRA fine-tuning, knowledge-graph-guided prompting
 - **Natural Language Processing**: text classification, named entity recognition, Arabic NLP, transformer models
 - **Machine Learning**: supervised and unsupervised learning, model evaluation and tuning
-- **Deep Learning**: neural networks, transfer learning and fine-tuning pre-trained models
+- **Deep Learning**: neural networks (CNNs, RNNs, Transformers), transfer learning and fine-tuning pre-trained models
 - **Computer Vision**: image restoration, edge detection, image processing and recognition
 - **Data Science**: data preprocessing, analysis and visualization
 
@@ -43,6 +43,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
@@ -55,6 +56,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 | [**Mathlooth · مثلوث**](https://github.com/Wasan-M-Alomar/mathlooth-saudi-heritage-3d) | 🏆 **3rd place**, CCIS Bachelor's graduation projects at PNU. In collaboration with the **Saudi Heritage Commission**. A first-of-its-kind generative AI pipeline that turns Arabic text into culturally accurate 2D images and 3D models of Saudi heritage objects. Built our own multimodal dataset from scratch (~5,000 samples, partly provided by the Heritage Commission), a Saudi heritage knowledge graph, and a novel Cultural Alignment Loss. | SDXL · TripoSG · Qwen3 · LoRA · Modal |
 | [**Arabic Political NER**](https://github.com/Wasan-M-Alomar/arabic-political-ner-arabert) | Fine-tuned AraBERT to extract people, organizations and locations from Arabic political text to support diplomatic decision-making. **85% F1** on validation. Team lead. | PyTorch · Transformers · AraBERT |
 | [**ArtifyAI**](https://github.com/Wasan-M-Alomar/artifyai-image-enhancement-stylization) | Restores low-quality photos with CodeFormer, then transforms them into artistic styles from a text prompt with Stable Diffusion + ControlNet, with CLIP-based style recommendation. Evaluated with PSNR, SSIM and LPIPS. | Stable Diffusion · ControlNet · CLIP · CodeFormer |
+| [**Voice Gender Classification**](https://github.com/Wasan-M-Alomar/voice-gender-classification-rnn) | Stacked SimpleRNN with batch normalization and dropout that classifies speaker gender from 20 acoustic voice features, reaching **97.7% test accuracy**, with live inference on new audio recordings. | TensorFlow · Keras · librosa |
 | [**work by stc** (concept)](https://github.com/Wasan-M-Alomar/work-by-stc-genai-concept) | Product concept for the **stc Challenge** with **Misk Skills**: a GenAI-powered workplace platform with AI meeting summaries, automatic task extraction, real-time translation and Saudi data localization, plus UX mockups and a go-to-market strategy. | GenAI · Product Design · UX |
 
 ---
@@ -78,7 +80,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 - **الذكاء الاصطناعي التوليدي**: توليد الصور والنماذج ثلاثية الأبعاد، نماذج الانتشار، تخصيص النماذج بتقنية LoRA، توجيه التوليد بالرسوم المعرفية
 - **معالجة اللغات الطبيعية**: تصنيف النصوص، استخراج الكيانات المسمّاة، معالجة اللغة العربية، نماذج المحوّلات
 - **تعلّم الآلة**: التعلّم الموجّه وغير الموجّه، تقييم النماذج وضبطها
-- **التعلّم العميق**: الشبكات العصبية، نقل التعلّم وتخصيص النماذج المدرّبة مسبقاً
+- **التعلّم العميق**: الشبكات العصبية (CNN و RNN والمحوّلات)، نقل التعلّم وتخصيص النماذج المدرّبة مسبقاً
 - **الرؤية الحاسوبية**: معالجة الصور والتعرّف عليها
 - **علم البيانات**: تجهيز البيانات وتحليلها وتمثيلها بصرياً
 
@@ -87,6 +89,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 - [**مثلوث**](https://github.com/Wasan-M-Alomar/mathlooth-saudi-heritage-3d): 🏆 **المركز الثالث** في مشاريع تخرج البكالوريوس بكلية علوم الحاسب والمعلومات، وبالشراكة مع **هيئة التراث**. نظام ذكاء اصطناعي توليدي فريد من نوعه يحوّل الوصف العربي إلى صور ونماذج ثلاثية الأبعاد دقيقة ثقافياً للقطع التراثية السعودية، مع بيانات متعددة الوسائط بنيناها من الصفر (نحو 5,000 عينة)، ورسم معرفي للتراث السعودي، ودالة خسارة جديدة للمواءمة الثقافية.
 - [**استخراج الكيانات من النصوص السياسية العربية**](https://github.com/Wasan-M-Alomar/arabic-political-ner-arabert): تخصيص نموذج AraBERT لاستخراج الأشخاص والمنظمات والمواقع من النصوص السياسية العربية لدعم اتخاذ القرار الدبلوماسي، بدقة **F1 تبلغ 85%**. (قائدة الفريق)
 - [**ArtifyAI**](https://github.com/Wasan-M-Alomar/artifyai-image-enhancement-stylization): ترميم الصور منخفضة الجودة بنموذج CodeFormer، ثم تحويلها إلى أنماط فنية بوصف نصي باستخدام Stable Diffusion و ControlNet، مع اقتراح النمط الأنسب بنموذج CLIP، وتقييم الجودة بمقاييس PSNR و SSIM و LPIPS.
+- [**تصنيف جنس المتحدث من الصوت**](https://github.com/Wasan-M-Alomar/voice-gender-classification-rnn): شبكة عصبية متكررة (SimpleRNN) تصنّف جنس المتحدث من 20 خاصية صوتية بدقة **97.7%**، مع إمكانية التنبؤ على تسجيلات صوتية جديدة.
 - [**work by stc**](https://github.com/Wasan-M-Alomar/work-by-stc-genai-concept): فكرة منتج قُدّمت في **تحدي stc** ضمن برنامج **مهارات مسك**، لمنصة عمل مدعومة بالذكاء الاصطناعي التوليدي تقدّم ملخصات ذكية للاجتماعات، واستخراجاً تلقائياً للمهام، وترجمة فورية، وتوطيناً للبيانات داخل المملكة، مع تصميم الواجهات وخطة تسويقية.
 
 ## للتواصل
