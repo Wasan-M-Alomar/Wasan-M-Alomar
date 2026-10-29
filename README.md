@@ -52,7 +52,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Mathlooth · مثلوث**](https://github.com/Wasan-M-Alomar/mathlooth-saudi-heritage-3d) | Graduation project: a first-of-its-kind generative AI pipeline that turns Arabic text into culturally accurate 2D images and 3D models of Saudi heritage objects. Built our own multimodal dataset from scratch (~5,000 samples), a Saudi heritage knowledge graph, and a novel Cultural Alignment Loss. | SDXL · TripoSG · Qwen3 · LoRA · Modal |
+| [**Mathlooth · مثلوث**](https://github.com/Wasan-M-Alomar/mathlooth-saudi-heritage-3d) | 🏆 **3rd place**, CCIS Bachelor's graduation projects at PNU. In collaboration with the **Saudi Heritage Commission**. A first-of-its-kind generative AI pipeline that turns Arabic text into culturally accurate 2D images and 3D models of Saudi heritage objects. Built our own multimodal dataset from scratch (~5,000 samples, partly provided by the Heritage Commission), a Saudi heritage knowledge graph, and a novel Cultural Alignment Loss. | SDXL · TripoSG · Qwen3 · LoRA · Modal |
 | [**Arabic Political NER**](https://github.com/Wasan-M-Alomar/arabic-political-ner-arabert) | Fine-tuned AraBERT to extract people, organizations and locations from Arabic political text to support diplomatic decision-making. **85% F1** on validation. Team lead. | PyTorch · Transformers · AraBERT |
 
 ---
@@ -82,7 +82,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 
 ## أبرز المشاريع
 
-- [**مثلوث**](https://github.com/Wasan-M-Alomar/mathlooth-saudi-heritage-3d): مشروع التخرج، نظام ذكاء اصطناعي توليدي فريد من نوعه يحوّل الوصف العربي إلى صور ونماذج ثلاثية الأبعاد دقيقة ثقافياً للقطع التراثية السعودية، مع بيانات متعددة الوسائط بنيناها من الصفر (نحو 5,000 عينة)، ورسم معرفي للتراث السعودي، ودالة خسارة جديدة للمواءمة الثقافية.
+- [**مثلوث**](https://github.com/Wasan-M-Alomar/mathlooth-saudi-heritage-3d): 🏆 **المركز الثالث** في مشاريع تخرج البكالوريوس بكلية علوم الحاسب والمعلومات، وبالشراكة مع **هيئة التراث**. نظام ذكاء اصطناعي توليدي فريد من نوعه يحوّل الوصف العربي إلى صور ونماذج ثلاثية الأبعاد دقيقة ثقافياً للقطع التراثية السعودية، مع بيانات متعددة الوسائط بنيناها من الصفر (نحو 5,000 عينة)، ورسم معرفي للتراث السعودي، ودالة خسارة جديدة للمواءمة الثقافية.
 - [**استخراج الكيانات من النصوص السياسية العربية**](https://github.com/Wasan-M-Alomar/arabic-political-ner-arabert): تخصيص نموذج AraBERT لاستخراج الأشخاص والمنظمات والمواقع من النصوص السياسية العربية لدعم اتخاذ القرار الدبلوماسي، بدقة **F1 تبلغ 85%**. (قائدة الفريق)
 
 ## للتواصل
