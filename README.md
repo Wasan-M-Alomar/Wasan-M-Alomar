@@ -55,6 +55,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 | [**Mathlooth · مثلوث**](https://github.com/Wasan-M-Alomar/mathlooth-saudi-heritage-3d) | 🏆 **3rd place**, CCIS Bachelor's graduation projects at PNU. In collaboration with the **Saudi Heritage Commission**. A first-of-its-kind generative AI pipeline that turns Arabic text into culturally accurate 2D images and 3D models of Saudi heritage objects. Built our own multimodal dataset from scratch (~5,000 samples, partly provided by the Heritage Commission), a Saudi heritage knowledge graph, and a novel Cultural Alignment Loss. | SDXL · TripoSG · Qwen3 · LoRA · Modal |
 | [**Arabic Political NER**](https://github.com/Wasan-M-Alomar/arabic-political-ner-arabert) | Fine-tuned AraBERT to extract people, organizations and locations from Arabic political text to support diplomatic decision-making. **85% F1** on validation. Team lead. | PyTorch · Transformers · AraBERT |
 | [**ArtifyAI**](https://github.com/Wasan-M-Alomar/artifyai-image-enhancement-stylization) | Restores low-quality photos with CodeFormer, then transforms them into artistic styles from a text prompt with Stable Diffusion + ControlNet, with CLIP-based style recommendation. Evaluated with PSNR, SSIM and LPIPS. | Stable Diffusion · ControlNet · CLIP · CodeFormer |
+| [**work by stc** (concept)](https://github.com/Wasan-M-Alomar/work-by-stc-genai-concept) | Product concept for the **stc Challenge** with **Misk Skills**: a GenAI-powered workplace platform with AI meeting summaries, automatic task extraction, real-time translation and Saudi data localization, plus UX mockups and a go-to-market strategy. | GenAI · Product Design · UX |
 
 ---
 
@@ -86,6 +87,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 - [**مثلوث**](https://github.com/Wasan-M-Alomar/mathlooth-saudi-heritage-3d): 🏆 **المركز الثالث** في مشاريع تخرج البكالوريوس بكلية علوم الحاسب والمعلومات، وبالشراكة مع **هيئة التراث**. نظام ذكاء اصطناعي توليدي فريد من نوعه يحوّل الوصف العربي إلى صور ونماذج ثلاثية الأبعاد دقيقة ثقافياً للقطع التراثية السعودية، مع بيانات متعددة الوسائط بنيناها من الصفر (نحو 5,000 عينة)، ورسم معرفي للتراث السعودي، ودالة خسارة جديدة للمواءمة الثقافية.
 - [**استخراج الكيانات من النصوص السياسية العربية**](https://github.com/Wasan-M-Alomar/arabic-political-ner-arabert): تخصيص نموذج AraBERT لاستخراج الأشخاص والمنظمات والمواقع من النصوص السياسية العربية لدعم اتخاذ القرار الدبلوماسي، بدقة **F1 تبلغ 85%**. (قائدة الفريق)
 - [**ArtifyAI**](https://github.com/Wasan-M-Alomar/artifyai-image-enhancement-stylization): ترميم الصور منخفضة الجودة بنموذج CodeFormer، ثم تحويلها إلى أنماط فنية بوصف نصي باستخدام Stable Diffusion و ControlNet، مع اقتراح النمط الأنسب بنموذج CLIP، وتقييم الجودة بمقاييس PSNR و SSIM و LPIPS.
+- [**work by stc**](https://github.com/Wasan-M-Alomar/work-by-stc-genai-concept): فكرة منتج قُدّمت في **تحدي stc** ضمن برنامج **مهارات مسك**، لمنصة عمل مدعومة بالذكاء الاصطناعي التوليدي تقدّم ملخصات ذكية للاجتماعات، واستخراجاً تلقائياً للمهام، وترجمة فورية، وتوطيناً للبيانات داخل المملكة، مع تصميم الواجهات وخطة تسويقية.
 
 ## للتواصل
 
