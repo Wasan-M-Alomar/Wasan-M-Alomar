@@ -29,6 +29,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 
 ## Areas of Expertise
 
+- **Generative AI**: text-to-image and image-to-3D generation, diffusion models, LoRA fine-tuning, knowledge-graph-guided prompting
 - **Natural Language Processing**: text classification, named entity recognition, Arabic NLP, transformer models
 - **Machine Learning**: supervised and unsupervised learning, model evaluation and tuning
 - **Deep Learning**: neural networks, transfer learning and fine-tuning pre-trained models
@@ -51,6 +52,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 
 | Project | Description | Tech |
 |---|---|---|
+| [**Mathlooth · مثلوث**](https://github.com/Wasan-M-Alomar/mathlooth-saudi-heritage-3d) | Graduation project: a first-of-its-kind generative AI pipeline that turns Arabic text into culturally accurate 2D images and 3D models of Saudi heritage objects. Built our own multimodal dataset from scratch (~5,000 samples), a Saudi heritage knowledge graph, and a novel Cultural Alignment Loss. | SDXL · TripoSG · Qwen3 · LoRA · Modal |
 | [**Arabic Political NER**](https://github.com/Wasan-M-Alomar/arabic-political-ner-arabert) | Fine-tuned AraBERT to extract people, organizations and locations from Arabic political text to support diplomatic decision-making. **85% F1** on validation. Team lead. | PyTorch · Transformers · AraBERT |
 
 ---
@@ -71,6 +73,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 
 ## مجالات التخصص
 
+- **الذكاء الاصطناعي التوليدي**: توليد الصور والنماذج ثلاثية الأبعاد، نماذج الانتشار، تخصيص النماذج بتقنية LoRA، توجيه التوليد بالرسوم المعرفية
 - **معالجة اللغات الطبيعية**: تصنيف النصوص، استخراج الكيانات المسمّاة، معالجة اللغة العربية، نماذج المحوّلات
 - **تعلّم الآلة**: التعلّم الموجّه وغير الموجّه، تقييم النماذج وضبطها
 - **التعلّم العميق**: الشبكات العصبية، نقل التعلّم وتخصيص النماذج المدرّبة مسبقاً
@@ -79,6 +82,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 
 ## أبرز المشاريع
 
+- [**مثلوث**](https://github.com/Wasan-M-Alomar/mathlooth-saudi-heritage-3d): مشروع التخرج، نظام ذكاء اصطناعي توليدي فريد من نوعه يحوّل الوصف العربي إلى صور ونماذج ثلاثية الأبعاد دقيقة ثقافياً للقطع التراثية السعودية، مع بيانات متعددة الوسائط بنيناها من الصفر (نحو 5,000 عينة)، ورسم معرفي للتراث السعودي، ودالة خسارة جديدة للمواءمة الثقافية.
 - [**استخراج الكيانات من النصوص السياسية العربية**](https://github.com/Wasan-M-Alomar/arabic-political-ner-arabert): تخصيص نموذج AraBERT لاستخراج الأشخاص والمنظمات والمواقع من النصوص السياسية العربية لدعم اتخاذ القرار الدبلوماسي، بدقة **F1 تبلغ 85%**. (قائدة الفريق)
 
 ## للتواصل
