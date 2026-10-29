@@ -18,13 +18,13 @@
 
 ## About Me
 
-I am an Artificial Intelligence engineer with a **Bachelor of Science in Artificial Intelligence (2022 – 2026), graduated with Honors**, and accredited by the **Saudi Council of Engineers**. Over four years of specialized study I built a solid foundation across the core fields of AI, from classical machine learning to modern deep learning and transformer-based language models.
+I am an Artificial Intelligence engineer with a **Bachelor of Science in Artificial Intelligence from Princess Nourah bint Abdulrahman University (2022 – 2026), graduated with Honors**, and accredited by the **Saudi Council of Engineers**. Over four years of specialized study I built a solid foundation across the core fields of AI, from classical machine learning to modern deep learning and transformer-based language models.
 
 I am particularly interested in **Arabic Natural Language Processing** and in building AI systems that solve real problems for organizations and decision-makers.
 
 ## Education & Credentials
 
-- 🎓 **B.Sc. in Artificial Intelligence**, 2022 – 2026, with Honors
+- 🎓 **B.Sc. in Artificial Intelligence**, Princess Nourah bint Abdulrahman University (PNU), Riyadh · 2022 – 2026 · with Honors
 - 🏅 **Saudi Council of Engineers (SCE)**, professional accreditation
 
 ## Areas of Expertise
@@ -60,13 +60,13 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 
 ## نبذة عني
 
-مهندسة ذكاء اصطناعي، حاصلة على **بكالوريوس العلوم في الذكاء الاصطناعي (2022 – 2026) مع مرتبة الشرف**، ومعتمدة من **الهيئة السعودية للمهندسين**. بنيت خلال أربع سنوات من الدراسة المتخصصة أساساً متيناً في مجالات الذكاء الاصطناعي الأساسية، من تعلّم الآلة التقليدي إلى التعلّم العميق ونماذج اللغة المبنية على المحوّلات (Transformers).
+مهندسة ذكاء اصطناعي، حاصلة على **بكالوريوس العلوم في الذكاء الاصطناعي من جامعة الأميرة نورة بنت عبدالرحمن (2022 – 2026) مع مرتبة الشرف**، ومعتمدة من **الهيئة السعودية للمهندسين**. بنيت خلال أربع سنوات من الدراسة المتخصصة أساساً متيناً في مجالات الذكاء الاصطناعي الأساسية، من تعلّم الآلة التقليدي إلى التعلّم العميق ونماذج اللغة المبنية على المحوّلات (Transformers).
 
 أهتم بشكل خاص بـ**معالجة اللغة العربية الطبيعية**، وببناء أنظمة ذكاء اصطناعي تحل مشكلات حقيقية للجهات وصنّاع القرار.
 
 ## التعليم والاعتمادات
 
-- 🎓 **بكالوريوس العلوم في الذكاء الاصطناعي**، 2022 – 2026، مع مرتبة الشرف
+- 🎓 **بكالوريوس العلوم في الذكاء الاصطناعي**، جامعة الأميرة نورة بنت عبدالرحمن، الرياض، 2022 – 2026، مع مرتبة الشرف
 - 🏅 **الهيئة السعودية للمهندسين**، اعتماد مهني
 
 ## مجالات التخصص
