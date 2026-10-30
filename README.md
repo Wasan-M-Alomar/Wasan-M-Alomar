@@ -1,7 +1,8 @@
 <h1 align="center">Wasan Alomar · وسن آل عمر</h1>
 
 <p align="center">
-  <b>Artificial Intelligence Engineer</b> · NLP · Machine Learning · Deep Learning
+  <b>AI Strategy &amp; Solutions</b> · AI Consulting · AI Product<br>
+  Bridging artificial intelligence with business and strategic goals
 </p>
 
 <p align="center">
@@ -20,7 +21,19 @@
 
 I am an Artificial Intelligence engineer with a **Bachelor of Science in Artificial Intelligence from Princess Nourah bint Abdulrahman University (2022 – 2026), graduated with Honors**, and accredited by the **Saudi Council of Engineers**. Over four years of specialized study I built a solid foundation across the core fields of AI, from classical machine learning to modern deep learning and transformer-based language models.
 
-I am particularly interested in **Arabic Natural Language Processing** and in building AI systems that solve real problems for organizations and decision-makers.
+I believe that truly understanding AI goes beyond knowing the tools. It means connecting technologies to one another, understanding why each one emerged, when it should be used, what impact it creates, and what is likely to come next.
+
+This is how I approach the field:
+
+- **New technologies:** I look beyond the name to understand how it works and what sets it apart from what came before.
+- **Technical discussions:** I follow the reasoning of technical experts and engage with them in depth.
+- **AI initiatives:** I evaluate the idea, its feasibility, its risks, and how well it aligns with strategic goals.
+- **AI news:** I distinguish genuine progress from marketing hype.
+- **Decision-making:** I bring an integrated technical and strategic perspective to decisions about AI projects.
+
+### Career Focus
+
+I am pursuing roles in **AI strategy, AI consulting and AI product management**, where I can bridge technical depth with business impact, evaluate and shape AI initiatives, and help organizations make informed decisions about AI, rather than purely software development roles.
 
 ## Education & Credentials
 
@@ -70,7 +83,19 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 
 مهندسة ذكاء اصطناعي، حاصلة على **بكالوريوس العلوم في الذكاء الاصطناعي من جامعة الأميرة نورة بنت عبدالرحمن (2022 – 2026) مع مرتبة الشرف**، ومعتمدة من **الهيئة السعودية للمهندسين**. بنيت خلال أربع سنوات من الدراسة المتخصصة أساساً متيناً في مجالات الذكاء الاصطناعي الأساسية، من تعلّم الآلة التقليدي إلى التعلّم العميق ونماذج اللغة المبنية على المحوّلات (Transformers).
 
-أهتم بشكل خاص بـ**معالجة اللغة العربية الطبيعية**، وببناء أنظمة ذكاء اصطناعي تحل مشكلات حقيقية للجهات وصنّاع القرار.
+أؤمن بأن الفهم الحقيقي للذكاء الاصطناعي لا يقتصر على معرفة الأدوات، بل يمتد إلى القدرة على ربط التقنيات ببعضها، وفهم سبب ظهور كل تقنية، ومتى تُستخدم، وما أثرها، وما الذي سيأتي بعدها.
+
+وهذا هو منهجي في التعامل مع المجال:
+
+- **التقنيات الجديدة:** أتجاوز الاسم لأفهم كيف تعمل، وما الذي يميزها عمّا سبقها.
+- **النقاشات التقنية:** أستوعب منطق الخبراء التقنيين وأناقشهم بعمق.
+- **مشاريع الذكاء الاصطناعي:** أقيّم الفكرة وجدواها ومخاطرها، ومدى ارتباطها بالأهداف الاستراتيجية.
+- **أخبار الذكاء الاصطناعي:** أميّز بين التطور الحقيقي والضجيج التسويقي.
+- **اتخاذ القرار:** أقدّم رؤية تقنية واستراتيجية متكاملة عند اتخاذ القرارات المتعلقة بمشاريع الذكاء الاصطناعي.
+
+### التوجه المهني
+
+أتطلع إلى أدوار في **استراتيجية الذكاء الاصطناعي، والاستشارات، وإدارة منتجات الذكاء الاصطناعي**، حيث أربط العمق التقني بالأثر على الأعمال، وأقيّم مبادرات الذكاء الاصطناعي وأسهم في توجيهها، وأساعد الجهات على اتخاذ قرارات مدروسة بشأنها، بدلاً من الأدوار البرمجية البحتة.
 
 ## التعليم والاعتمادات
 
