@@ -47,6 +47,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Featured Projects
@@ -57,6 +58,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 | [**Arabic Political NER**](https://github.com/Wasan-M-Alomar/arabic-political-ner-arabert) | Fine-tuned AraBERT to extract people, organizations and locations from Arabic political text to support diplomatic decision-making. **85% F1** on validation. Team lead. | PyTorch · Transformers · AraBERT |
 | [**ArtifyAI**](https://github.com/Wasan-M-Alomar/artifyai-image-enhancement-stylization) | Restores low-quality photos with CodeFormer, then transforms them into artistic styles from a text prompt with Stable Diffusion + ControlNet, with CLIP-based style recommendation. Evaluated with PSNR, SSIM and LPIPS. | Stable Diffusion · ControlNet · CLIP · CodeFormer |
 | [**Voice Gender Classification**](https://github.com/Wasan-M-Alomar/voice-gender-classification-rnn) | Stacked SimpleRNN with batch normalization and dropout that classifies speaker gender from 20 acoustic voice features, reaching **97.7% test accuracy**, with live inference on new audio recordings. | TensorFlow · Keras · librosa |
+| [**Insiyab · إنسياب**](https://github.com/Wasan-M-Alomar/insiyab-riyadh-metro-congestion) | Ask in plain language and get Riyadh Metro congestion predictions: zero-shot NLP (BART-large-MNLI) extracts station, day and time, and an LSTM trained on a 10,000-trip synthetic dataset predicts the congestion level (**95% accuracy**), served through a Gradio app. | LSTM · Transformers · Gradio |
 | [**work by stc** (concept)](https://github.com/Wasan-M-Alomar/work-by-stc-genai-concept) | Product concept for the **stc Challenge** with **Misk Skills**: a GenAI-powered workplace platform with AI meeting summaries, automatic task extraction, real-time translation and Saudi data localization, plus UX mockups and a go-to-market strategy. | GenAI · Product Design · UX |
 
 ---
@@ -90,6 +92,7 @@ I am particularly interested in **Arabic Natural Language Processing** and in bu
 - [**استخراج الكيانات من النصوص السياسية العربية**](https://github.com/Wasan-M-Alomar/arabic-political-ner-arabert): تخصيص نموذج AraBERT لاستخراج الأشخاص والمنظمات والمواقع من النصوص السياسية العربية لدعم اتخاذ القرار الدبلوماسي، بدقة **F1 تبلغ 85%**. (قائدة الفريق)
 - [**ArtifyAI**](https://github.com/Wasan-M-Alomar/artifyai-image-enhancement-stylization): ترميم الصور منخفضة الجودة بنموذج CodeFormer، ثم تحويلها إلى أنماط فنية بوصف نصي باستخدام Stable Diffusion و ControlNet، مع اقتراح النمط الأنسب بنموذج CLIP، وتقييم الجودة بمقاييس PSNR و SSIM و LPIPS.
 - [**تصنيف جنس المتحدث من الصوت**](https://github.com/Wasan-M-Alomar/voice-gender-classification-rnn): شبكة عصبية متكررة (SimpleRNN) تصنّف جنس المتحدث من 20 خاصية صوتية بدقة **97.7%**، مع إمكانية التنبؤ على تسجيلات صوتية جديدة.
+- [**إنسياب**](https://github.com/Wasan-M-Alomar/insiyab-riyadh-metro-congestion): اسأل بلغة طبيعية واحصل على توقع الازدحام في مترو الرياض؛ نموذج BART يستخرج المحطة واليوم والوقت، ونموذج LSTM مدرّب على 10,000 رحلة محاكاة يتنبأ بمستوى الازدحام بدقة **95%**، عبر واجهة Gradio.
 - [**work by stc**](https://github.com/Wasan-M-Alomar/work-by-stc-genai-concept): فكرة منتج قُدّمت في **تحدي stc** ضمن برنامج **مهارات مسك**، لمنصة عمل مدعومة بالذكاء الاصطناعي التوليدي تقدّم ملخصات ذكية للاجتماعات، واستخراجاً تلقائياً للمهام، وترجمة فورية، وتوطيناً للبيانات داخل المملكة، مع تصميم الواجهات وخطة تسويقية.
 
 ## للتواصل
