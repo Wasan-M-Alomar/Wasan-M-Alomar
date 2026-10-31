@@ -35,6 +35,10 @@ This is how I approach the field:
 
 I am pursuing roles in **AI strategy, AI consulting and AI product management**, where I can bridge technical depth with business impact, evaluate and shape AI initiatives, and help organizations make informed decisions about AI, rather than purely software development roles.
 
+## Experience
+
+- 🏛️ **AI & Innovation Specialist (Trainee)**, Ministry of Foreign Affairs, Saudi Arabia: evaluated AI solutions and a generative AI virtual assistant, defined improvement requirements, and established a formal technical partnership between the Ministry and Princess Nourah bint Abdulrahman University.
+
 ## Education & Credentials
 
 - 🎓 **B.Sc. in Artificial Intelligence**, Princess Nourah bint Abdulrahman University (PNU), Riyadh · 2022 – 2026 · with Honors
@@ -96,6 +100,10 @@ I am pursuing roles in **AI strategy, AI consulting and AI product management**,
 ### التوجه المهني
 
 أتطلع إلى أدوار في **استراتيجية الذكاء الاصطناعي، والاستشارات، وإدارة منتجات الذكاء الاصطناعي**، حيث أربط العمق التقني بالأثر على الأعمال، وأقيّم مبادرات الذكاء الاصطناعي وأسهم في توجيهها، وأساعد الجهات على اتخاذ قرارات مدروسة بشأنها، بدلاً من الأدوار البرمجية البحتة.
+
+## الخبرة
+
+- 🏛️ **أخصائية ذكاء اصطناعي وابتكار (تدريب)**، وزارة الخارجية، المملكة العربية السعودية: تقييم حلول الذكاء الاصطناعي ومساعد افتراضي توليدي، وتحديد متطلبات التحسين، وتأسيس شراكة تقنية رسمية بين الوزارة وجامعة الأميرة نورة بنت عبدالرحمن.
 
 ## التعليم والاعتمادات
 
